@@ -1,5 +1,5 @@
-# Simple C code bfursificator
+# Simple C code obfursificator
 Transforms your code into the beginning of Duglas Adamses "The Hitchhiker's Guide to the Galaxy" book.
 Early-alpha unstable version
 ## Usage
-'python obfs.py *yourfilename.c*'
+`python obfs.py *yourfilename.c*`
