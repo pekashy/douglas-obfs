@@ -1,5 +1,5 @@
 # Simple C code obfuscator
-Transforms your code into the beginning of Duglas Adamses "The Hitchhiker's Guide to the Galaxy" book using defines.
+Transforms your code into the beginning of Douglas Adamses "The Hitchhiker's Guide to the Galaxy" book using defines.
 Alpha unstable version
 ## Usage
 `python obfs.py *yourfilename.c*`
