@@ -4,7 +4,7 @@ Alpha unstable version
 ## Usage
 `python obfs.py *yourfilename.c*`
 ## Example 
-`python obfs.py *alg2.c`
+`python obfs.py alg2.c`
 
 Gives us:
 
